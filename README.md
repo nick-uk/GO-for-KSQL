@@ -19,7 +19,7 @@ All the instances will work together by exchanging information through a private
 
 ### What is the repository for?
 - I'm using this repository to do KSQL experiments by using a more simplified KSQL Go client version
-- Includes basic tests and ready to use docker-compose local stack.
+- Includes basic tests, ready to use docker-compose local stack and sample data generation.
 
 ```Go
 client, qerr = kclient.Ksql(ksql.Request{KSQL: SQL}, ksqlserver, timeout)
