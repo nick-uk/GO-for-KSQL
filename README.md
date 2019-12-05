@@ -102,6 +102,7 @@ Removing go-ksql_kafka_1           ... done
 Removing go-ksql_zookeeper_1       ... done
 Removing network go-ksql_default
 ```
+[![asciicast](https://asciinema.org/a/iqivbP6vnrUJ6ZPy41cIWpHgh.png)](https://asciinema.org/a/iqivbP6vnrUJ6ZPy41cIWpHgh)
 
 ### Comments
 KSQL is a very powerful way to combine streams and do processing by using SQL commands, perfect for real-time applications. By default KSQL reads the topics for streams and tables from the latest offset, it is a behavior that you can change but this doesn't means you can use Kafka as a SQL database.
