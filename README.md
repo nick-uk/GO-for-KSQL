@@ -1,5 +1,5 @@
 # GO-for-KSQL
-Playing with the KSQL REST, checking KSQL benchmarks and understand the sql capabilities for Kafka streams
+#### Playing with the KSQL REST, checking KSQL benchmarks and understand the sql capabilities for Kafka streams
 
 
 ### A few words about KSQL
